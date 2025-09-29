@@ -5,7 +5,14 @@
 A **stack** is a linear data structure that follows the **LIFO (Last In, First Out)** principle.  
 This means that the last element inserted into the stack is the first one to be removed.  
 
-In a stack, all insertions and deletions happen at one end, called the top. There is also a pointer, often called the top pointer, which keeps track of the current topmost element. If an attempt is made to push an element into a full stack, it results in stack overflow, whereas trying to pop an element from an empty stack results in stack underflow. Stacks are essential in many real-world applications such as function call management in programming languages (call stack), undo/redo operations in text editors, expression evaluation in compilers, and backtracking algorithms. By organizing data in this manner, stacks provide a controlled and efficient way to manage temporary data, ensuring that operations are performed in a structured sequence.
+In a stack, all insertions and deletions happen at one end, called the top. There is also a pointer, 
+often called the top pointer, which keeps track of the current topmost element. If an attempt is made
+to push an element into a full stack, it results in stack overflow, whereas trying to pop an element 
+from an empty stack results in stack underflow. Stacks are essential in many real-world applications 
+such as function call management in programming languages (call stack), undo/redo operations in text 
+editors, expression evaluation in compilers, and backtracking algorithms. By organizing data in this 
+manner, stacks provide a controlled and efficient way to manage temporary data, ensuring that operations
+are performed in a structured sequence.
 
 ---
 
